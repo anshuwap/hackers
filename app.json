@@ -1,0 +1,16 @@
+{
+  "name": "hackers",
+  "description": "anshuwap is free testing app by AnshuWap.com",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
